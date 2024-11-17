@@ -8,4 +8,15 @@ These data were made from three type of Tune:
 *   Neutral
 *   NePublicSpeaking
 
-There are a total of 600 voice audio data files produced by male and female speakers. The audio file format is a .WAV format.
+There are a total of 600 voice audio data files produced by male and female speakers from different IELTS video and PublicSpeaking. The audio file format is a .WAV format.
+
+# References
+These project code collect from different source, which are given below:
+References
+❖ https://www.slideshare.net/SaniyaShaikh72/speech-emotion-recognition
+❖ https://www.slideshare.net/VamshidharSingh/speech-based-emotion-recognition-using-voice
+❖ https://www.linkedin.com/pulse/speech-emotion-recognition-kognitiv-club
+❖ https://www.kaggle.com/code/vidhirana10/speech-emotion-recognition
+❖ https://www.hackersrealm.net/post/speech-emotion-recognition-using-python
+❖ https://machinelearningmastery.com/understanding-simple-recurrent-neural-networks-in-keras
+❖ https://medium.com/@reddyyashu20/bidirectional-rnn-python-code-in-keras-and-pytorch22b9a9a3c03
