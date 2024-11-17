@@ -1,0 +1,35 @@
+Speech Tone Prediction (STP) using Neural Network
+
+*Speech Recognition | Sound Classification | Audio Processing | Sound Analysis using Python | Deep Learning Project *
+
+I am going to build a speech tone prediction using neural network. First we need to learn about what is speech tone perdiction (STP) and why are we building in this project? Well, few of the reasons are- First lets define STP, speech tone perdiction abbreviated as STP, It is the act of attempting to prediction human voice and affective states from speech. This is capitalizing on the fact that voice often reflects underlying speech through tone and pitch.
+
+Why do we need it? Speech tone prediction is the part of speech recognition that is gaining more popularity and its need is increasing greatly. While there are methods to detect tones using machine learning techniques, this project attempts to use deep learning to infer tones from voice data.
+
+STP is used in call centers to classify calls according to tone and can be used as a performance parameter for conversation analysis. Thus helping companies to improve their services by identifying customer satisfaction and dissatisfaction etc.
+
+This project explores speech analysis, classification and deep learning techniques to decode speech tunes from audio speech. It can recognize and classify speech recognition in spoken words. The generated model enhances your skills in various audio processing, machine learning and unlocks the possibilities of sound analysis.
+
+In this project we are going to analyze and classify various audio files into a corresponding category and visualize the sound frequency through a plot.
+
+Dataset Information
+These recordings were made from three type of speech:
+
+Confident
+Nervous
+Neutral
+PublicSpeaking
+
+There are a total of 600 voice audio data files produced by male and female speakers. The audio file format is a .WAV format.
+
+Download the dataset from here
+
+Here is the filename identifiers for the dataset:
+
+Modality ( file format is .wav, and audio-only).
+
+Vocal channel (speech).
+
+Speech Label= confident, neutral, nervous and public speaking
+
+Vocalilst (Total audio is 600, 203 voice are female and 397 voice are male).
