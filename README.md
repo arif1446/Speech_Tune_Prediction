@@ -12,7 +12,7 @@ There are a total of 600 voice audio data files produced by male and female spea
 
 # References
 These project code collect from different source, which are given below:
-References
+
 ❖ https://www.slideshare.net/SaniyaShaikh72/speech-emotion-recognition
 ❖ https://www.slideshare.net/VamshidharSingh/speech-based-emotion-recognition-using-voice
 ❖ https://www.linkedin.com/pulse/speech-emotion-recognition-kognitiv-club
